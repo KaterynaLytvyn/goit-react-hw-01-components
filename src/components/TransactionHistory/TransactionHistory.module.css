@@ -1,0 +1,16 @@
+.table {
+    border: 1px solid;
+    width: 100%;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 2px;
+    background-color: #7882A4;
+}
+
+.head {
+    color: white;
+}
+
+.row {
+    background-color: #EFEFEF;
+}
